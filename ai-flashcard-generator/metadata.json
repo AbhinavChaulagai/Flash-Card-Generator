@@ -1,0 +1,5 @@
+{
+  "name": "AI Flashcard Generator",
+  "description": "An application that uses AI to automatically generate flashcards from any text input. Paste your notes, an article, or any text, and get a set of study flashcards in seconds.",
+  "requestFramePermissions": []
+}
